@@ -4,6 +4,30 @@
 from typing import List
 
 
+QUESTION = """
+11. Container With Most Water
+
+Given an integer array height of length n, there are n vertical lines where
+the endpoints of the ith line are (i, 0) and (i, height[i]).
+
+Find two lines that together with the x-axis form a container that stores
+the most water. Return the maximum amount of water the container can store.
+You may not slant the container.
+
+Examples:
+Input: height = [1,8,6,2,5,4,8,3,7]
+Output: 49
+
+Input: height = [1,1]
+Output: 1
+
+Constraints:
+n == height.length
+2 <= n <= 10^5
+0 <= height[i] <= 10^4
+"""
+
+
 class Solution:
     """Container With Most Water solution."""
 
