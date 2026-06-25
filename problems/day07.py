@@ -1,12 +1,1 @@
-﻿"""Day 07: DSA practice workspace."""
-
-
-class Solution:
-    """Implement your solution methods here."""
-
-    pass
-
-
-if __name__ == "__main__":
-    # Add quick local checks here while practicing.
-    pass
+﻿"""Day 07: Review the DSA practice workspace and complete the exercises."""

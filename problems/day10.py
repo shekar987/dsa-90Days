@@ -66,3 +66,19 @@ if __name__ == "__main__":
         assert solution.characterReplacement(text, replacements) == expected
 
     print("All Day 10 checks passed.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
